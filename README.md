@@ -1,1 +1,1 @@
-# subdomain-mit
+# subdomain takeover
